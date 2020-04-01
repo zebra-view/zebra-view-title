@@ -1,0 +1,20 @@
+$--color-success: #67C23A;
+$--color-info: #909399;
+$--color-primary: #409EFF;
+$--color-danger: #F56C6C;
+$--color-warning: #E6A23C;
+
+$--font-primary: #353b3e;
+$--color-primary: #68767d;
+$--color-text-primary: #68767d;
+
+$theme-colors: (
+  default: $--color-info,
+  primary: $--color-primary,
+  success: $--color-success,
+  danger: $--color-danger,
+  warning: $--color-warning,
+  info: $--color-text-primary
+);
+
+$--color-white: #fff;
